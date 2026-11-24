@@ -190,6 +190,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Team Fortress 2 · Updated 2026-11-22 · Shared under the MIT License*
+*Team Fortress 2 · Updated 2026-11-24 · Shared under the MIT License*
 
-<!-- updated 2026-11-22 -->
+<!-- updated 2026-11-24 -->
